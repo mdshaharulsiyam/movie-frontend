@@ -42,17 +42,17 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 CineMaze Developed by{' '}
+          &copy; 2024 CineMaze Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
               color: theme.palette.primary.main
             }}
-            href="https://berthutapea.vercel.app/"
+            href="https://siyam-portfolio.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            Shaharul siyam
           </a>
         </Typography>
       </Paper>
